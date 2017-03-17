@@ -1,3 +1,8 @@
+h1 { color: #7c795d;
+ font-family: 'Trocchi', serif; font-size: 45px;
+  font-weight: normal; line-height: 48px; margin: 10 px; }
+h2 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 40px; font-weight: normal; line-height: 48px; margin: 0; }
+
 table {
     width: 400px;
     height: 400px;
